@@ -40,9 +40,6 @@ author:
 
 # Publication Category - The following is the list of publication categories and their headings
 publication_categories:
-  books:
-    title: 'Books'
-    publications: []
   manuscripts:
     title: 'Journal Articles'
     publications:
