@@ -75,45 +75,37 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
-## Publications
-
-### Conference Papers
-
-- **🟦 FSE'25**  
-  **🔴 CCF-A**  
-  **Towards Understanding Performance Bugs in Popular Data Science Libraries**  
-  *Haowen Yang, Zhengda Li, Zhiqing Zhong, Xiaoying Tang, Pinjia He*  
-  *ACM SIGSOFT International Symposium on the Foundations of Software Engineering*, November 2025.  
-  [paper](#) [code](#)
-
-- **🟦 ICSE'25**  
-  **🔴 CCF-A**  
-  **An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**  
-  *Yifan Wu, Yunpeng Wang, Ying Li, Wei Tao, Siyu Yu, Haowen Yang, Wei Jiang, Jianguo Li*  
-  *International Conference on Software Engineering*, May 2025.  
-  [paper](#) [code](#)
-
-### Journal Articles
-
-- **Information and Software Technology**  
-  *Ximing Zhang, Huan Xu, Qiuling Yu, Shipei Zeng, Shan Dai, Haowen Yang, Shuhan Wu*  
-  *Journal article, March 2024*  
-  DOI: [10.1016/j.infsof.2023.107391](https://doi.org/10.1016/j.infsof.2023.107391)
-
-publication_category:
+# Publication Category - The following is the list of publication categories and their headings
+publication_categories:
   books:
     title: 'Books'
+    publications: []
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+    publications:
+      - title: "Information and Software Technology"
+        authors: "Ximing Zhang, Huan Xu, Qiuling Yu, Shipei Zeng, Shan Dai, Haowen Yang, Shuhan Wu"
+        venue: "Journal article"
+        year: 2024
+        doi: "10.1016/j.infsof.2023.107391"
+        url: "https://doi.org/10.1016/j.infsof.2023.107391"
   conferences:
     title: 'Conference Papers'
-        publications:
-        - title: "Towards Understanding Performance Bugs in Popular Data Science Libraries"
-          authors: "Haowen Yang, Zhengda Li, Zhiqing Zhong, Xiaoying Tang, Pinjia He"
-          venue: "FSE'25"
-          ccf: "CCF-A"
-          year: 2025
+    publications:
+      - title: "Towards Understanding Performance Bugs in Popular Data Science Libraries"
+        authors: "Haowen Yang, Zhengda Li, Zhiqing Zhong, Xiaoying Tang, Pinjia He"
+        venue: "ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE'25)"
+        ccf: "CCF-A"
+        year: 2025
+        paper_url: "#"
+        code_url: "#"
+      - title: "An Empirical Study on Commit Message Generation using LLMs via In-Context Learning"
+        authors: "Yifan Wu, Yunpeng Wang, Ying Li, Wei Tao, Siyu Yu, Haowen Yang, Wei Jiang, Jianguo Li"
+        venue: "International Conference on Software Engineering (ICSE'25)"
+        ccf: "CCF-A"
+        year: 2025
+        paper_url: "#"
+        code_url: "#"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
