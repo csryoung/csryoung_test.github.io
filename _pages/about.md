@@ -18,7 +18,7 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
 
 
 
-# Publications xxxx
+# Publications
 
 ## Conference Papers
 
