@@ -24,7 +24,7 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
 
 ### Conference Papers
 
-- <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">FSE'25</span>  **Towards Understanding Performance Bugs in Popular Data Science Libraries**  
+- **<span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">FSE'25</span> <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCF-A</span> Towards Understanding Performance Bugs in Popular Data Science Libraries**  
   **Haowen Yang**, Zhengda Li, Zhiqing Zhong, Xiaoying Tang, Pinjia He  
   *ACM SIGSOFT International Symposium on the Foundations of Software Engineering*, June 2025.  
   [paper](#) [code](#)
