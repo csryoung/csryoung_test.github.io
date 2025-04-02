@@ -18,12 +18,13 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
 
 
 
-
 ---
-permalink: /aboutme_publications/
+permalink: /
 title: "Publications"
 excerpt: "My Publications"
 author_profile: true
+redirect_from: 
+  - /aboutme_publications/
 ---
 
 - **<span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">FSE'25</span>
