@@ -22,9 +22,6 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
 
 ## Conference Papers
 
-<a href="#publications" id="jump-to-publications">Jump to Publications</a>
-
-<h2 id="publications">Publications</h2>
 
 - **<span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">FSE'25</span>
 <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCF-A</span> Towards Understanding Performance Bugs in Popular Data Science Libraries**  
