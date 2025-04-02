@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /aboutme_publications/
 ---
 
 I'm a first year PhD student from [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/), [Information Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/), [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
@@ -17,15 +18,13 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
 
 
 
+# Publications
 
----
-permalink: /
-title: "Publications"
-excerpt: "My Publications"
-author_profile: true
-redirect_from: 
-  - /aboutme_publications/
----
+## Conference Papers
+
+<a href="#publications" id="jump-to-publications">Jump to Publications</a>
+
+<h2 id="publications">Publications</h2>
 
 - **<span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">FSE'25</span>
 <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCF-A</span> Towards Understanding Performance Bugs in Popular Data Science Libraries**  
