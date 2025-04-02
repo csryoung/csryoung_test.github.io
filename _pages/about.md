@@ -44,9 +44,3 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
   *International Conference on Software Engineering*, May 2025.  
   [paper](https://arxiv.org/abs/2408.10327)
 
-### Journal Articles
-
-- **Information and Software Technology**  
-  Ximing Zhang, Huan Xu, Qiuling Yu, Shipei Zeng, Shan Dai, **Haowen Yang**, Shuhan Wu  
-  *Journal article, March 2024*  
-  DOI: [10.1016/j.infsof.2023.107391](https://doi.org/10.1016/j.infsof.2023.107391)
