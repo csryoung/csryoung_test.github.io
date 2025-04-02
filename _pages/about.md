@@ -21,25 +21,31 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
 
 ## Publications
 
+## Publications
+
 ### Conference Papers
 
 - <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">FSE'25</span>  
-  <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px;">CCF-A</span>  
   **Towards Understanding Performance Bugs in Popular Data Science Libraries**  
   *Haowen Yang*, Zhengda Li, Zhiqing Zhong, Xiaoying Tang, Pinjia He  
   *ACM SIGSOFT International Symposium on the Foundations of Software Engineering*, November 2025.  
   [paper](#) [code](#)
 
 - <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">ICSE'25</span>  
-  <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px;">CCF-A</span>  
   **An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**  
   *Yifan Wu*, Yunpeng Wang, Ying Li, Wei Tao, Siyu Yu, Haowen Yang, Wei Jiang, Jianguo Li  
   *International Conference on Software Engineering*, May 2025.  
   [paper](#) [code](#)
 
 - <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">ICSE'25</span>  
-  <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px;">CCF-A</span>  
   **An Empirical Study on Package-Level Deprecation in Python Ecosystem**  
   *Zhiqing Zhong*, Shilin He, Haoxuan Wang, BoXi Yu, Haowen Yang, Pinjia He  
   *International Conference on Software Engineering*, May 2025.  
   [paper](#) [code](#)
+
+### Journal Articles
+
+- **Information and Software Technology**  
+  *Ximing Zhang, Huan Xu, Qiuling Yu, Shipei Zeng, Shan Dai, Haowen Yang, Shuhan Wu*  
+  *Journal article, March 2024*  
+  DOI: [10.1016/j.infsof.2023.107391](https://doi.org/10.1016/j.infsof.2023.107391)
