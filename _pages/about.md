@@ -14,4 +14,4 @@ My current research interest lies in LLM4SE, especially on LLM for code efficien
 I am very fortunate to be advised by [Prof. Zishuo Ding](https://personal.hkust-gz.edu.cn/ding/). 
 I was very fortunate to be advised by [Prof. Pinjia He](https://pinjiahe.github.io/) from [School of Data Science](https://cs.pku.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-[Email](mailto:hyang464@connect.hkust-gz.edu.cn) 
+
