@@ -39,7 +39,7 @@ author:
   github           : "https://github.com/csryoung"
 
 # Publication Category - The following is the list of publication categories and their headings
-publication_categories:
+publication_category:
   manuscripts:
     title: 'Journal Articles'
     publications:
