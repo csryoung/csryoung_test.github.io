@@ -34,13 +34,13 @@ Previously, I earned my MPhil from CUHK-Shenzhen where I was fortunate to be adv
   **An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**  
   *Yifan Wu*, Yunpeng Wang, Ying Li, Wei Tao, Siyu Yu, Haowen Yang, Wei Jiang, Jianguo Li  
   *International Conference on Software Engineering*, May 2025.  
-  [paper](#) [code](#)
+  [paper](https://arxiv.org/abs/2502.18904)
 
 - <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">ICSE'25</span>  
   **An Empirical Study on Package-Level Deprecation in Python Ecosystem**  
   *Zhiqing Zhong*, Shilin He, Haoxuan Wang, BoXi Yu, Haowen Yang, Pinjia He  
   *International Conference on Software Engineering*, May 2025.  
-  [paper](#) [code](#)
+  [paper](https://arxiv.org/abs/2408.10327)
 
 ### Journal Articles
 
