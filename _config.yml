@@ -101,6 +101,20 @@ author:
   *Journal article, March 2024*  
   DOI: [10.1016/j.infsof.2023.107391](https://doi.org/10.1016/j.infsof.2023.107391)
 
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+        publications:
+        - title: "Towards Understanding Performance Bugs in Popular Data Science Libraries"
+          authors: "Haowen Yang, Zhengda Li, Zhiqing Zhong, Xiaoying Tang, Pinjia He"
+          venue: "FSE'25"
+          ccf: "CCF-A"
+          year: 2025
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
