@@ -35,9 +35,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/csryoung"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -76,13 +76,37 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+## Publications
+
+### Conference Papers
+
+- <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">FSE'25</span>  
+  <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px;">CCF-A</span>  
+  **Towards Understanding Performance Bugs in Popular Data Science Libraries**  
+  *Haowen Yang*, Zhengda Li, Zhiqing Zhong, Xiaoying Tang, Pinjia He  
+  *ACM SIGSOFT International Symposium on the Foundations of Software Engineering*, November 2025.  
+  [paper](#) [code](#)
+
+- <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">ICSE'25</span>  
+  <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px;">CCF-A</span>  
+  **An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**  
+  *Yifan Wu*, Yunpeng Wang, Ying Li, Wei Tao, Siyu Yu, Haowen Yang, Wei Jiang, Jianguo Li  
+  *International Conference on Software Engineering*, May 2025.  
+  [paper](#) [code](#)
+
+- <span style="background-color:#003366; color:white; padding:2px 6px; border-radius:4px;">ICSE'25</span>  
+  <span style="background-color:#990000; color:white; padding:2px 6px; border-radius:4px;">CCF-A</span>  
+  **An Empirical Study on Package-Level Deprecation in Python Ecosystem**  
+  *Zhiqing Zhong*, Shilin He, Haoxuan Wang, BoXi Yu, Haowen Yang, Pinjia He  
+  *International Conference on Software Engineering*, May 2025.  
+  [paper](#) [code](#)
+
+### Journal Articles
+
+- **Information and Software Technology**  
+  *Ximing Zhang, Huan Xu, Qiuling Yu, Shipei Zeng, Shan Dai, Haowen Yang, Shuhan Wu*  
+  *Journal article, March 2024*  
+  DOI: [10.1016/j.infsof.2023.107391](https://doi.org/10.1016/j.infsof.2023.107391)
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
